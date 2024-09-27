@@ -3,7 +3,7 @@ import Features from "../Features/Features";
 
 const Home = () => {
     return (
-        <div className="mx-auto w-full h-[2000px] border border-red-600 ">
+        <div className="mx-auto w-full h-[2000px] ">
             <Features></Features>
         </div>
     );

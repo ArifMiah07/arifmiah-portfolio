@@ -1,9 +1,10 @@
+import Hero from "../Hero/Hero";
 
 
 const Features = () => {
     return (
         <div>
-            <h1>this is features</h1>
+            <Hero></Hero>
         </div>
     );
 };
